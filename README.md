@@ -104,8 +104,6 @@ it's built on Mistral-7B, quantized to 4-bit for efficient GPU use, orchestrated
 
 # 📸 Demo
 
-## 📸 Demo
-
 🎥 [Watch the demo video](https://drive.google.com/file/d/1CWieKmdfUm64axqgL3ZrGAVRGaEl8z2z/view?usp=sharing)
 ---
 
