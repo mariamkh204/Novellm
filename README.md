@@ -47,7 +47,7 @@ it's built on Mistral-7B, quantized to 4-bit for efficient GPU use, orchestrated
 * **LangChain** ➜ (core, community, text splitters) orchestration layer, chunking (`RecursiveCharacterTextSplitter`), LLM pipeline wrapper
 * **FAISS** ➜ vector store for semantic search / retrieval (RAG)
 * **Custom output parser** ➜ reliably extracts structured JSON (characters, relationships, quizzes, recommendations) from raw LLM text output
-* **PyMuPDF (fitz)** **pypdf** **EasyOCR** ➜ for PDF text extraction
+* **PyMuPDF (fitz)** **EasyOCR** ➜ for PDF text extraction
 * **Gradio** ➜ interactive web dashboard (tabs, sidebar, progress bars, custom CSS/animations)
 * **pyngrok** ➜  tunneling for public share links
 
