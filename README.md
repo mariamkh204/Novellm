@@ -49,7 +49,6 @@ it's built on Mistral-7B, quantized to 4-bit for efficient GPU use, orchestrated
 * **Custom output parser** ➜ reliably extracts structured JSON (characters, relationships, quizzes, recommendations) from raw LLM text output
 * **PyMuPDF (fitz)** **EasyOCR** ➜ for PDF text extraction
 * **Gradio** ➜ interactive web dashboard (tabs, sidebar, progress bars, custom CSS/animations)
-* **pyngrok** ➜  tunneling for public share links
 
 ---
 
